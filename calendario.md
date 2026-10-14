@@ -11,3 +11,6 @@
 | 2 | Lun | 26/10/2026 | Reel | Conocé al rival antes del sábado (la previa) | tanda-01 |
 | 2 | Mié | 28/10/2026 | Carrusel 3 | Tu escudo, tus colores (Mi Ombú y Mi Jacarandá) | tanda-01 |
 | 2 | Vie | 30/10/2026 | Post | ¿La querés con el escudo de tu club? (pedir demo) | tanda-01 |
+| 3 | Lun | 02/11/2026 | Carrusel 4 | ¿Cómo llega la app a tu club? (3 pasos para pedir la demo) | tanda-02 |
+| 3 | Mié | 04/11/2026 | Post | Dos hijos, dos categorías, una sola app (Mi familia) | tanda-02 |
+| 3 | Vie | 06/11/2026 | Frase | ¿Cuántos grupos de WhatsApp tiene tu club? (pregunta a la comunidad) | tanda-02 |
