@@ -18,6 +18,15 @@ Esta guía la sigue Claude cada viernes para preparar la tanda de la semana sigu
 - Público: comisiones directivas, coordinadores y profes de clubes de barrio. También padres que colaboran con el club.
 - Objetivo de la cuenta: que un club escriba por mensaje directo para pedir una demo con su escudo.
 
+## Perfil
+- Bio vigente:
+  La app de tu club de fútbol infantil y futsal ⚽
+  Convocatorias, fixture y avisos, con tu escudo
+  👇 Probá la demo o pedí la de tu club
+- Enlace: apps-clubes-demo.netlify.app (web de Banderín con las demos).
+- Historias destacadas: Qué es · Familias · Profes · Comisión · Tus datos (tapas en destacadas/).
+- No decir que el fixture es automático para todas las ligas: solo FEFI y AFA Futsal.
+
 ## Reglas
 - Castellano rioplatense (vos, "escribinos", "probá"). Nunca inglés.
 - Tono cercano, de club de barrio. Frases cortas. Algún emoji al principio de una línea, sin abusar.
