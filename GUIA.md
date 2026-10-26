@@ -10,7 +10,7 @@ Esta guía la sigue Claude cada viernes para preparar la tanda de la semana sigu
   - Convocatorias que arma y envía el profe desde su plantel; las familias responden Va o No puede.
   - Alerta al profe si confirmó menos del 75%, con un botón para recordar a las familias.
   - La previa del partido: cómo salió en el Apertura, la posición del rival y sus últimos 3 resultados.
-  - Tabla y fixture. En FEFI y AFA Futsal se actualizan solos; en otras ligas, el club los carga.
+  - Tabla y fixture. Integración multiliga: con FEFI, AFA Futsal, LaAmba y Argenliga, entre otras, se actualizan solos; si la liga todavía no está integrada, el club los carga desde su panel.
   - Mensajes y comunicados del club; avisos de entrenamiento suspendido o modificado.
   - Tablero para la comisión: qué categorías convocaron y cuántas familias usan la app.
   - Se instala en el celular sin pasar por las tiendas de apps (PWA).
@@ -25,16 +25,16 @@ Esta guía la sigue Claude cada viernes para preparar la tanda de la semana sigu
   👇 Probá la demo o pedí la de tu club
 - Enlace: apps-clubes-demo.netlify.app (web de Banderín con las demos).
 - Historias destacadas: Qué es · Familias · Profes · Comisión · Tus datos (tapas en destacadas/).
-- No decir que el fixture es automático para todas las ligas: solo FEFI y AFA Futsal.
+- Hablar de "integración multiliga" y nombrar FEFI, AFA Futsal, LaAmba y Argenliga "entre otras". No prometer que todas las ligas ya están integradas.
 
 ## Reglas
 - Castellano rioplatense (vos, "escribinos", "probá"). Nunca inglés.
 - Tono cercano, de club de barrio. Frases cortas. Algún emoji al principio de una línea, sin abusar.
 - No mostrar chicos reales, ni nombres reales de jugadores o de clubes. Solo los clubes de ejemplo.
 - No inventar clientes, cifras ni testimonios. No prometer precios ni plazos.
-- FEFI se puede nombrar en publicaciones orgánicas, pero no hay que dar a entender que la app es solo para FEFI.
+- Las ligas se pueden nombrar en publicaciones orgánicas, siempre las cuatro juntas y con "entre otras", para no dar a entender que la app es para una sola liga.
 - Cada publicación cierra con una acción: "Probá la demo: link en la bio" o "Escribinos por mensaje directo".
-- Hashtags al final, siempre los mismos: #babyfutbol #futbolinfantil #futsal #clubesdebarrio #clubdebarrio #FEFI #futsalAFA
+- Hashtags al final, siempre los mismos: #babyfutbol #futbolinfantil #futsal #clubesdebarrio #clubdebarrio #FEFI #futsalAFA #LaAmba #Argenliga
 
 ## Formato de cada tanda
 - 3 publicaciones por semana: lunes, miércoles y viernes a las 19:00 (hora de Buenos Aires).
