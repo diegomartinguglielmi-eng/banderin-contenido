@@ -15,3 +15,6 @@
 | 3 | Lun | 02/11/2026 | Carrusel 4 | ¿Cómo llega la app a tu club? (3 pasos para pedir la demo) | tanda-02 |
 | 3 | Mié | 04/11/2026 | Post | Dos hijos, dos categorías, una sola app (Mi familia) | tanda-02 |
 | 3 | Vie | 06/11/2026 | Frase | ¿Cuántos grupos de WhatsApp tiene tu club? (pregunta a la comunidad) | tanda-02 |
+| 4 | Lun | 09/11/2026 | Carrusel 4 | El aviso que llega a todas las familias (mensajes y comunicados) | tanda-03 |
+| 4 | Mié | 11/11/2026 | Post | Se instala desde el celular, sin tiendas de apps (PWA) | tanda-03 |
+| 4 | Vie | 13/11/2026 | Frase | ¿Qué fue lo más difícil de organizar esta temporada? (fin de temporada, pregunta a la comunidad) | tanda-03 |
